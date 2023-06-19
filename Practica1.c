@@ -5,7 +5,7 @@
 int main(int argc, char *argv[]) 
 {
 	int numero,i,n,j,aux;
-	int array[10000];
+	int array[10000];//Hola
 	
 	printf("Ingrese el numero de numeros a ordenar: ");
 	scanf("%d", &n);
